@@ -1,0 +1,21 @@
+# Maven output
+/target/
+
+# Eclipse settings
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA (in case someone uses it)
+*.iml
+.idea/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Videos or large binary test files (optional)
+/videos/

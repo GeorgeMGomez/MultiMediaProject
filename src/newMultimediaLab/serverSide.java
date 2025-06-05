@@ -1,4 +1,4 @@
-package newMultimediaLab;
+package newMultiMediaLab;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

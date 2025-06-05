@@ -1,4 +1,4 @@
-package newMultimediaLab;
+package newMultiMediaLab;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -8,7 +8,7 @@ import java.net.Socket;
 
 public class clientSide {
 	private static final String SERVER_IP = "localhost";
-    private static final int SERVER_PORT = 12345;
+    private static final int SERVER_PORT = 1234;
     
 	public static void main(String[] args) {
 		try (
