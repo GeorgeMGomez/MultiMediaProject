@@ -59,3 +59,9 @@ Thumbs.db
 
 # Videos and other large files in your /videos dir (OPTIONAL! See note below)
 /videos/
+
+# Ignore  workspace settings, caches, plugin data for Eclipse IDE
+.metadata/
+
+# Generated stream descriptor for RTP
+stream.sdp
