@@ -58,4 +58,4 @@ build/
 Thumbs.db
 
 # Videos and other large files in your /videos dir (OPTIONAL! See note below)
-# /videos/
+/videos/
